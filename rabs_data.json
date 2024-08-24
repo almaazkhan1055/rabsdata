@@ -154,21 +154,31 @@
     "https://www.rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/review/5.JPG"
   ],
   "teamMemberData": [
-  {
-    img: "https://www.rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/rehan-halai.jpg",
-    name: "MR. REHAN HALAI",
-    logo: "https://www.rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/my-business-icon.png",
-    designation: "DIRECTOR & FOUNDER",
-    about:"Director and Founder of RABS Net Solutions, it’s my pleasure to introduce to you our dynamic organization with the solutions we offer. We always look forward to add real value to your business through our analytical and inventive ways with every single project. We're committed to TAKING YOU FORWARD, with passion, innovation, creating value for our Clients.",
-  },
-  {
-    img: "https://www.rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/bilal-halai.jpg",
-    name: "MR. BILAL HALAI",
-    logo: "https://www.rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/my-business-icon.png",
-    designation: "STRATEGY & RESEARCH ANALYST",
-    about: "Bilal Halai is the brain behind the proprietary technology solution designed by the company for real estate channel partners. He leads the development and business development team and gives them critical insights which give this unique digital platform the cutting edge and helps stakeholders in the real estate business taking their revenue to higher levels.",
-  },
-],
+    {
+      "name": "John Doe",
+      "title": "Founder & CEO",
+      "img": "https://rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/team1.jpg",
+      "desc": "John is the visionary behind RABS Net Solutions. With years of experience in digital marketing and web development, he leads the team with a focus on innovation and excellence."
+    },
+    {
+      "name": "Jane Smith",
+      "title": "Lead Designer",
+      "img": "https://rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/team2.jpg",
+      "desc": "Jane is the creative force driving our design team. Her expertise in UI/UX design ensures that every project meets the highest standards of user experience and visual appeal."
+    },
+    {
+      "name": "Michael Brown",
+      "title": "Senior Developer",
+      "img": "https://rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/team3.jpg",
+      "desc": "Michael brings his technical skills and problem-solving abilities to our development team. His work on complex projects ensures functionality and performance are top-notch."
+    },
+    {
+      "name": "Emily Davis",
+      "title": "Marketing Strategist",
+      "img": "https://rabsnetsolutions.com/experience-center/assets/img/RABS_Landing_Page/team/team4.jpg",
+      "desc": "Emily's expertise in digital marketing and strategy helps our clients achieve their goals. She crafts tailored marketing plans to enhance brand presence and drive growth."
+    }
+  ],
   "footerData": {
     "services": [
       { "text": "Web Design", "url": "#" },
