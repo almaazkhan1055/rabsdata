@@ -3,11 +3,12 @@
     {
       "logo": "https://www.rabsnetsolutions.com/experience-center/assets/img/membership/logo.png",
       "navigationList": [
-        { "text": "Home", "url": "#" },
-        { "text": "Services", "url": "#" },
-        { "text": "Our Approach", "url": "#" },
-        { "text": "About us", "url": "#" },
-        { "text": "FAQ", "url": "#" }
+        { "text": "Home", "url": "#home" },
+        { "text": "Overview", "url": "#overview" },
+        { "text": "Services", "url": "#services" },
+        { "text": "Our Approach", "url": "#ourapproach" },
+        { "text": "About us", "url": "#aboutus" },
+        { "text": "FAQ", "url": "#faq" }
       ],
       "contact": "+91 98336 36916"
     }
